@@ -1,0 +1,2247 @@
+{
+"dataset/test/Amy-001.png": {
+	"Eva": 0.002313,
+	"Bob": 0.027883,
+	"Amy": 0.981145
+},
+"dataset/test/Amy-002.png": {
+	"Eva": 0.003334,
+	"Bob": 0.099374,
+	"Amy": 0.859830
+},
+"dataset/test/Amy-003.png": {
+	"Eva": 0.019837,
+	"Bob": 0.002415,
+	"Amy": 0.969532
+},
+"dataset/test/Amy-004.png": {
+	"Eva": 0.001704,
+	"Bob": 0.357696,
+	"Amy": 0.814094
+},
+"dataset/test/Amy-005.png": {
+	"Eva": 0.005330,
+	"Bob": 0.007197,
+	"Amy": 0.991968
+},
+"dataset/test/Amy-006.png": {
+	"Eva": 0.006209,
+	"Bob": 0.028590,
+	"Amy": 0.926868
+},
+"dataset/test/Amy-007.png": {
+	"Eva": 0.029036,
+	"Bob": 0.008471,
+	"Amy": 0.823580
+},
+"dataset/test/Amy-008.png": {
+	"Eva": 0.002726,
+	"Bob": 0.309792,
+	"Amy": 0.823598
+},
+"dataset/test/Amy-009.png": {
+	"Eva": 0.003179,
+	"Bob": 0.006696,
+	"Amy": 0.992837
+},
+"dataset/test/Amy-010.png": {
+	"Eva": 0.001979,
+	"Bob": 0.021605,
+	"Amy": 0.962567
+},
+"dataset/test/Amy-011.png": {
+	"Eva": 0.000763,
+	"Bob": 0.283038,
+	"Amy": 0.916707
+},
+"dataset/test/Amy-012.png": {
+	"Eva": 0.000696,
+	"Bob": 0.635740,
+	"Amy": 0.726149
+},
+"dataset/test/Amy-013.png": {
+	"Eva": 0.011133,
+	"Bob": 0.004807,
+	"Amy": 0.980744
+},
+"dataset/test/Amy-014.png": {
+	"Eva": 0.004931,
+	"Bob": 0.051616,
+	"Amy": 0.867323
+},
+"dataset/test/Amy-015.png": {
+	"Eva": 0.001450,
+	"Bob": 0.040916,
+	"Amy": 0.982465
+},
+"dataset/test/Amy-016.png": {
+	"Eva": 0.021793,
+	"Bob": 0.001303,
+	"Amy": 0.980550
+},
+"dataset/test/Amy-017.png": {
+	"Eva": 0.002513,
+	"Bob": 0.004971,
+	"Amy": 0.996040
+},
+"dataset/test/Amy-018.png": {
+	"Eva": 0.005390,
+	"Bob": 0.021614,
+	"Amy": 0.979704
+},
+"dataset/test/Amy-019.png": {
+	"Eva": 0.001607,
+	"Bob": 0.024346,
+	"Amy": 0.991126
+},
+"dataset/test/Amy-020.png": {
+	"Eva": 0.007504,
+	"Bob": 0.008628,
+	"Amy": 0.956857
+},
+"dataset/test/Amy-021.png": {
+	"Eva": 0.002885,
+	"Bob": 0.137246,
+	"Amy": 0.743538
+},
+"dataset/test/Amy-022.png": {
+	"Eva": 0.000944,
+	"Bob": 0.549238,
+	"Amy": 0.734932
+},
+"dataset/test/Amy-023.png": {
+	"Eva": 0.001638,
+	"Bob": 0.029526,
+	"Amy": 0.986788
+},
+"dataset/test/Amy-024.png": {
+	"Eva": 0.002855,
+	"Bob": 0.005817,
+	"Amy": 0.995115
+},
+"dataset/test/Amy-025.png": {
+	"Eva": 0.005934,
+	"Bob": 0.003725,
+	"Amy": 0.982632
+},
+"dataset/test/Amy-026.png": {
+	"Eva": 0.005553,
+	"Bob": 0.003619,
+	"Amy": 0.994677
+},
+"dataset/test/Amy-027.png": {
+	"Eva": 0.009974,
+	"Bob": 0.002503,
+	"Amy": 0.982493
+},
+"dataset/test/Amy-028.png": {
+	"Eva": 0.009696,
+	"Bob": 0.002657,
+	"Amy": 0.988335
+},
+"dataset/test/Amy-029.png": {
+	"Eva": 0.007454,
+	"Bob": 0.044729,
+	"Amy": 0.827209
+},
+"dataset/test/Amy-030.png": {
+	"Eva": 0.044515,
+	"Bob": 0.001786,
+	"Amy": 0.907085
+},
+"dataset/test/Amy-031.png": {
+	"Eva": 0.003803,
+	"Bob": 0.006437,
+	"Amy": 0.993631
+},
+"dataset/test/Amy-032.png": {
+	"Eva": 0.006764,
+	"Bob": 0.001307,
+	"Amy": 0.997213
+},
+"dataset/test/Amy-033.png": {
+	"Eva": 0.003944,
+	"Bob": 0.015346,
+	"Amy": 0.981105
+},
+"dataset/test/Amy-034.png": {
+	"Eva": 0.004809,
+	"Bob": 0.122513,
+	"Amy": 0.863306
+},
+"dataset/test/Amy-035.png": {
+	"Eva": 0.002838,
+	"Bob": 0.008149,
+	"Amy": 0.991510
+},
+"dataset/test/Amy-036.png": {
+	"Eva": 0.002659,
+	"Bob": 0.010303,
+	"Amy": 0.992624
+},
+"dataset/test/Amy-037.png": {
+	"Eva": 0.003554,
+	"Bob": 0.009940,
+	"Amy": 0.971082
+},
+"dataset/test/Amy-038.png": {
+	"Eva": 0.004342,
+	"Bob": 0.034932,
+	"Amy": 0.970097
+},
+"dataset/test/Amy-039.png": {
+	"Eva": 0.001829,
+	"Bob": 0.013360,
+	"Amy": 0.989459
+},
+"dataset/test/Amy-040.png": {
+	"Eva": 0.002496,
+	"Bob": 0.588492,
+	"Amy": 0.614888
+},
+"dataset/test/Amy-041.png": {
+	"Eva": 0.004467,
+	"Bob": 0.004082,
+	"Amy": 0.994516
+},
+"dataset/test/Amy-042.png": {
+	"Eva": 0.003382,
+	"Bob": 0.002350,
+	"Amy": 0.997682
+},
+"dataset/test/Amy-043.png": {
+	"Eva": 0.002026,
+	"Bob": 0.019672,
+	"Amy": 0.990534
+},
+"dataset/test/Amy-044.png": {
+	"Eva": 0.000602,
+	"Bob": 0.203254,
+	"Amy": 0.912855
+},
+"dataset/test/Amy-045.png": {
+	"Eva": 0.002570,
+	"Bob": 0.006426,
+	"Amy": 0.995133
+},
+"dataset/test/Amy-046.png": {
+	"Eva": 0.004959,
+	"Bob": 0.003050,
+	"Amy": 0.993107
+},
+"dataset/test/Amy-047.png": {
+	"Eva": 0.008328,
+	"Bob": 0.001611,
+	"Amy": 0.996006
+},
+"dataset/test/Amy-048.png": {
+	"Eva": 0.001931,
+	"Bob": 0.082431,
+	"Amy": 0.956564
+},
+"dataset/test/Amy-049.png": {
+	"Eva": 0.002599,
+	"Bob": 0.013984,
+	"Amy": 0.985959
+},
+"dataset/test/Amy-050.png": {
+	"Eva": 0.002479,
+	"Bob": 0.482142,
+	"Amy": 0.671340
+},
+"dataset/test/Amy-051.png": {
+	"Eva": 0.006637,
+	"Bob": 0.003673,
+	"Amy": 0.992310
+},
+"dataset/test/Amy-052.png": {
+	"Eva": 0.001472,
+	"Bob": 0.563543,
+	"Amy": 0.650075
+},
+"dataset/test/Amy-053.png": {
+	"Eva": 0.004504,
+	"Bob": 0.016000,
+	"Amy": 0.949454
+},
+"dataset/test/Amy-054.png": {
+	"Eva": 0.002620,
+	"Bob": 0.002116,
+	"Amy": 0.998533
+},
+"dataset/test/Amy-055.png": {
+	"Eva": 0.000937,
+	"Bob": 0.049028,
+	"Amy": 0.981466
+},
+"dataset/test/Amy-056.png": {
+	"Eva": 0.016952,
+	"Bob": 0.001961,
+	"Amy": 0.975285
+},
+"dataset/test/Amy-057.png": {
+	"Eva": 0.001151,
+	"Bob": 0.039695,
+	"Amy": 0.984284
+},
+"dataset/test/Amy-058.png": {
+	"Eva": 0.005625,
+	"Bob": 0.007634,
+	"Amy": 0.989765
+},
+"dataset/test/Amy-059.png": {
+	"Eva": 0.007073,
+	"Bob": 0.179185,
+	"Amy": 0.809590
+},
+"dataset/test/Amy-060.png": {
+	"Eva": 0.005714,
+	"Bob": 0.003505,
+	"Amy": 0.992902
+},
+"dataset/test/Amy-061.png": {
+	"Eva": 0.006743,
+	"Bob": 0.006356,
+	"Amy": 0.984951
+},
+"dataset/test/Amy-062.png": {
+	"Eva": 0.005147,
+	"Bob": 0.011883,
+	"Amy": 0.961129
+},
+"dataset/test/Amy-063.png": {
+	"Eva": 0.002445,
+	"Bob": 0.024087,
+	"Amy": 0.980274
+},
+"dataset/test/Amy-064.png": {
+	"Eva": 0.003282,
+	"Bob": 0.033935,
+	"Amy": 0.958319
+},
+"dataset/test/Amy-065.png": {
+	"Eva": 0.003772,
+	"Bob": 0.004833,
+	"Amy": 0.989335
+},
+"dataset/test/Amy-066.png": {
+	"Eva": 0.004633,
+	"Bob": 0.007357,
+	"Amy": 0.991666
+},
+"dataset/test/Amy-067.png": {
+	"Eva": 0.026229,
+	"Bob": 0.057118,
+	"Amy": 0.660526
+},
+"dataset/test/Amy-068.png": {
+	"Eva": 0.005461,
+	"Bob": 0.004294,
+	"Amy": 0.986084
+},
+"dataset/test/Amy-069.png": {
+	"Eva": 0.001663,
+	"Bob": 0.308299,
+	"Amy": 0.835737
+},
+"dataset/test/Amy-070.png": {
+	"Eva": 0.000911,
+	"Bob": 0.241820,
+	"Amy": 0.910682
+},
+"dataset/test/Amy-071.png": {
+	"Eva": 0.004274,
+	"Bob": 0.002189,
+	"Amy": 0.996999
+},
+"dataset/test/Amy-072.png": {
+	"Eva": 0.002573,
+	"Bob": 0.008921,
+	"Amy": 0.990964
+},
+"dataset/test/Amy-073.png": {
+	"Eva": 0.001319,
+	"Bob": 0.688436,
+	"Amy": 0.685640
+},
+"dataset/test/Amy-074.png": {
+	"Eva": 0.036438,
+	"Bob": 0.000873,
+	"Amy": 0.975599
+},
+"dataset/test/Amy-075.png": {
+	"Eva": 0.005397,
+	"Bob": 0.002735,
+	"Amy": 0.993851
+},
+"dataset/test/Amy-076.png": {
+	"Eva": 0.004199,
+	"Bob": 0.002099,
+	"Amy": 0.997200
+},
+"dataset/test/Amy-077.png": {
+	"Eva": 0.007565,
+	"Bob": 0.449349,
+	"Amy": 0.493171
+},
+"dataset/test/Amy-078.png": {
+	"Eva": 0.091129,
+	"Bob": 0.001242,
+	"Amy": 0.923294
+},
+"dataset/test/Amy-079.png": {
+	"Eva": 0.003783,
+	"Bob": 0.014689,
+	"Amy": 0.977846
+},
+"dataset/test/Amy-080.png": {
+	"Eva": 0.006500,
+	"Bob": 0.032324,
+	"Amy": 0.965522
+},
+"dataset/test/Amy-081.png": {
+	"Eva": 0.001019,
+	"Bob": 0.042779,
+	"Amy": 0.978681
+},
+"dataset/test/Amy-082.png": {
+	"Eva": 0.001437,
+	"Bob": 0.187610,
+	"Amy": 0.914449
+},
+"dataset/test/Amy-083.png": {
+	"Eva": 0.002147,
+	"Bob": 0.184212,
+	"Amy": 0.855414
+},
+"dataset/test/Amy-084.png": {
+	"Eva": 0.004326,
+	"Bob": 0.004839,
+	"Amy": 0.988305
+},
+"dataset/test/Amy-085.png": {
+	"Eva": 0.001007,
+	"Bob": 0.643022,
+	"Amy": 0.526412
+},
+"dataset/test/Amy-086.png": {
+	"Eva": 0.004189,
+	"Bob": 0.004344,
+	"Amy": 0.994733
+},
+"dataset/test/Amy-087.png": {
+	"Eva": 0.001076,
+	"Bob": 0.147264,
+	"Amy": 0.856713
+},
+"dataset/test/Amy-088.png": {
+	"Eva": 0.004695,
+	"Bob": 0.009300,
+	"Amy": 0.989805
+},
+"dataset/test/Amy-089.png": {
+	"Eva": 0.001440,
+	"Bob": 0.083673,
+	"Amy": 0.914774
+},
+"dataset/test/Amy-090.png": {
+	"Eva": 0.000874,
+	"Bob": 0.387859,
+	"Amy": 0.863745
+},
+"dataset/test/Amy-091.png": {
+	"Eva": 0.005308,
+	"Bob": 0.012879,
+	"Amy": 0.955244
+},
+"dataset/test/Amy-092.png": {
+	"Eva": 0.004077,
+	"Bob": 0.004615,
+	"Amy": 0.993018
+},
+"dataset/test/Amy-093.png": {
+	"Eva": 0.003681,
+	"Bob": 0.437106,
+	"Amy": 0.644123
+},
+"dataset/test/Amy-094.png": {
+	"Eva": 0.001985,
+	"Bob": 0.021426,
+	"Amy": 0.985772
+},
+"dataset/test/Amy-095.png": {
+	"Eva": 0.002153,
+	"Bob": 0.008758,
+	"Amy": 0.992219
+},
+"dataset/test/Amy-096.png": {
+	"Eva": 0.007466,
+	"Bob": 0.042185,
+	"Amy": 0.845852
+},
+"dataset/test/Amy-097.png": {
+	"Eva": 0.004765,
+	"Bob": 0.005467,
+	"Amy": 0.983253
+},
+"dataset/test/Amy-098.png": {
+	"Eva": 0.008381,
+	"Bob": 0.002759,
+	"Amy": 0.992091
+},
+"dataset/test/Amy-099.png": {
+	"Eva": 0.004654,
+	"Bob": 0.008252,
+	"Amy": 0.991565
+},
+"dataset/test/Amy-100.png": {
+	"Eva": 0.002318,
+	"Bob": 0.034050,
+	"Amy": 0.985029
+},
+"dataset/test/Amy-101.png": {
+	"Eva": 0.004710,
+	"Bob": 0.006604,
+	"Amy": 0.989878
+},
+"dataset/test/Amy-102.png": {
+	"Eva": 0.005063,
+	"Bob": 0.051683,
+	"Amy": 0.879746
+},
+"dataset/test/Amy-103.png": {
+	"Eva": 0.002460,
+	"Bob": 0.016515,
+	"Amy": 0.989227
+},
+"dataset/test/Amy-104.png": {
+	"Eva": 0.038177,
+	"Bob": 0.010255,
+	"Amy": 0.879918
+},
+"dataset/test/Amy-105.png": {
+	"Eva": 0.005427,
+	"Bob": 0.004623,
+	"Amy": 0.995605
+},
+"dataset/test/Amy-106.png": {
+	"Eva": 0.003876,
+	"Bob": 0.005185,
+	"Amy": 0.994258
+},
+"dataset/test/Amy-107.png": {
+	"Eva": 0.001053,
+	"Bob": 0.108249,
+	"Amy": 0.945292
+},
+"dataset/test/Amy-108.png": {
+	"Eva": 0.014084,
+	"Bob": 0.001336,
+	"Amy": 0.995081
+},
+"dataset/test/Amy-109.png": {
+	"Eva": 0.006574,
+	"Bob": 0.001748,
+	"Amy": 0.997215
+},
+"dataset/test/Amy-110.png": {
+	"Eva": 0.013996,
+	"Bob": 0.032079,
+	"Amy": 0.903389
+},
+"dataset/test/Amy-111.png": {
+	"Eva": 0.002115,
+	"Bob": 0.010709,
+	"Amy": 0.992826
+},
+"dataset/test/Amy-112.png": {
+	"Eva": 0.003758,
+	"Bob": 0.011725,
+	"Amy": 0.981684
+},
+"dataset/test/Amy-113.png": {
+	"Eva": 0.001466,
+	"Bob": 0.028279,
+	"Amy": 0.983386
+},
+"dataset/test/Amy-114.png": {
+	"Eva": 0.105961,
+	"Bob": 0.001660,
+	"Amy": 0.906161
+},
+"dataset/test/Amy-115.png": {
+	"Eva": 0.004813,
+	"Bob": 0.005886,
+	"Amy": 0.985937
+},
+"dataset/test/Amy-116.png": {
+	"Eva": 0.002375,
+	"Bob": 0.526162,
+	"Amy": 0.603966
+},
+"dataset/test/Amy-117.png": {
+	"Eva": 0.001233,
+	"Bob": 0.022520,
+	"Amy": 0.987899
+},
+"dataset/test/Amy-118.png": {
+	"Eva": 0.000693,
+	"Bob": 0.545601,
+	"Amy": 0.737558
+},
+"dataset/test/Amy-119.png": {
+	"Eva": 0.007838,
+	"Bob": 0.003197,
+	"Amy": 0.978270
+},
+"dataset/test/Amy-120.png": {
+	"Eva": 0.002959,
+	"Bob": 0.072227,
+	"Amy": 0.936372
+},
+"dataset/test/Amy-121.png": {
+	"Eva": 0.000848,
+	"Bob": 0.036682,
+	"Amy": 0.989695
+},
+"dataset/test/Amy-122.png": {
+	"Eva": 0.002154,
+	"Bob": 0.087296,
+	"Amy": 0.854982
+},
+"dataset/test/Amy-123.png": {
+	"Eva": 0.005513,
+	"Bob": 0.005437,
+	"Amy": 0.987249
+},
+"dataset/test/Amy-124.png": {
+	"Eva": 0.002988,
+	"Bob": 0.007717,
+	"Amy": 0.991520
+},
+"dataset/test/Amy-125.png": {
+	"Eva": 0.026396,
+	"Bob": 0.000960,
+	"Amy": 0.991378
+},
+"dataset/test/Amy-126.png": {
+	"Eva": 0.001557,
+	"Bob": 0.010811,
+	"Amy": 0.995396
+},
+"dataset/test/Amy-127.png": {
+	"Eva": 0.002458,
+	"Bob": 0.011011,
+	"Amy": 0.991022
+},
+"dataset/test/Amy-128.png": {
+	"Eva": 0.000442,
+	"Bob": 0.229227,
+	"Amy": 0.949672
+},
+"dataset/test/Amy-129.png": {
+	"Eva": 0.002338,
+	"Bob": 0.017811,
+	"Amy": 0.983978
+},
+"dataset/test/Amy-130.png": {
+	"Eva": 0.002342,
+	"Bob": 0.094626,
+	"Amy": 0.943321
+},
+"dataset/test/Amy-131.png": {
+	"Eva": 0.000681,
+	"Bob": 0.773748,
+	"Amy": 0.537471
+},
+"dataset/test/Amy-132.png": {
+	"Eva": 0.005202,
+	"Bob": 0.017055,
+	"Amy": 0.946162
+},
+"dataset/test/Amy-133.png": {
+	"Eva": 0.001158,
+	"Bob": 0.186778,
+	"Amy": 0.909340
+},
+"dataset/test/Amy-134.png": {
+	"Eva": 0.001158,
+	"Bob": 0.186778,
+	"Amy": 0.909340
+},
+"dataset/test/Amy-135.png": {
+	"Eva": 0.003169,
+	"Bob": 0.008527,
+	"Amy": 0.993116
+},
+"dataset/test/Amy-136.png": {
+	"Eva": 0.009069,
+	"Bob": 0.251941,
+	"Amy": 0.700349
+},
+"dataset/test/Amy-137.png": {
+	"Eva": 0.008077,
+	"Bob": 0.004526,
+	"Amy": 0.987430
+},
+"dataset/test/Amy-138.png": {
+	"Eva": 0.005051,
+	"Bob": 0.001559,
+	"Amy": 0.997717
+},
+"dataset/test/Amy-139.png": {
+	"Eva": 0.004671,
+	"Bob": 0.002007,
+	"Amy": 0.996293
+},
+"dataset/test/Amy-140.png": {
+	"Eva": 0.001850,
+	"Bob": 0.021571,
+	"Amy": 0.990920
+},
+"dataset/test/Amy-141.png": {
+	"Eva": 0.006756,
+	"Bob": 0.009309,
+	"Amy": 0.971658
+},
+"dataset/test/Amy-142.png": {
+	"Eva": 0.000534,
+	"Bob": 0.888333,
+	"Amy": 0.334696
+},
+"dataset/test/Amy-143.png": {
+	"Eva": 0.002063,
+	"Bob": 0.009623,
+	"Amy": 0.991342
+},
+"dataset/test/Amy-144.png": {
+	"Eva": 0.023627,
+	"Bob": 0.001983,
+	"Amy": 0.974887
+},
+"dataset/test/Amy-145.png": {
+	"Eva": 0.006669,
+	"Bob": 0.180158,
+	"Amy": 0.775372
+},
+"dataset/test/Amy-146.png": {
+	"Eva": 0.002628,
+	"Bob": 0.022289,
+	"Amy": 0.980188
+},
+"dataset/test/Amy-147.png": {
+	"Eva": 0.002915,
+	"Bob": 0.002378,
+	"Amy": 0.997606
+},
+"dataset/test/Amy-148.png": {
+	"Eva": 0.000750,
+	"Bob": 0.405689,
+	"Amy": 0.834855
+},
+"dataset/test/Amy-149.png": {
+	"Eva": 0.004243,
+	"Bob": 0.038007,
+	"Amy": 0.967878
+},
+"dataset/test/Amy-150.png": {
+	"Eva": 0.001305,
+	"Bob": 0.052581,
+	"Amy": 0.962221
+},
+"dataset/test/Amy-151.png": {
+	"Eva": 0.002286,
+	"Bob": 0.003516,
+	"Amy": 0.998119
+},
+"dataset/test/Amy-152.png": {
+	"Eva": 0.007067,
+	"Bob": 0.004453,
+	"Amy": 0.979102
+},
+"dataset/test/Amy-153.png": {
+	"Eva": 0.003060,
+	"Bob": 0.022033,
+	"Amy": 0.966523
+},
+"dataset/test/Amy-154.png": {
+	"Eva": 0.003898,
+	"Bob": 0.010335,
+	"Amy": 0.986558
+},
+"dataset/test/Amy-155.png": {
+	"Eva": 0.002771,
+	"Bob": 0.006013,
+	"Amy": 0.994028
+},
+"dataset/test/Amy-156.png": {
+	"Eva": 0.003941,
+	"Bob": 0.006257,
+	"Amy": 0.994591
+},
+"dataset/test/Amy-157.png": {
+	"Eva": 0.003065,
+	"Bob": 0.063084,
+	"Amy": 0.921721
+},
+"dataset/test/Amy-158.png": {
+	"Eva": 0.001349,
+	"Bob": 0.015132,
+	"Amy": 0.987639
+},
+"dataset/test/Amy-159.png": {
+	"Eva": 0.006223,
+	"Bob": 0.003185,
+	"Amy": 0.994921
+},
+"dataset/test/Amy-160.png": {
+	"Eva": 0.001650,
+	"Bob": 0.329848,
+	"Amy": 0.852776
+},
+"dataset/test/Amy-161.png": {
+	"Eva": 0.023332,
+	"Bob": 0.001828,
+	"Amy": 0.952868
+},
+"dataset/test/Amy-162.png": {
+	"Eva": 0.001542,
+	"Bob": 0.067221,
+	"Amy": 0.969643
+},
+"dataset/test/Amy-163.png": {
+	"Eva": 0.003126,
+	"Bob": 0.011828,
+	"Amy": 0.983020
+},
+"dataset/test/Amy-164.png": {
+	"Eva": 0.008865,
+	"Bob": 0.006562,
+	"Amy": 0.984677
+},
+"dataset/test/Amy-165.png": {
+	"Eva": 0.002585,
+	"Bob": 0.004944,
+	"Amy": 0.996436
+},
+"dataset/test/Amy-166.png": {
+	"Eva": 0.001870,
+	"Bob": 0.010876,
+	"Amy": 0.993164
+},
+"dataset/test/Amy-167.png": {
+	"Eva": 0.021926,
+	"Bob": 0.002904,
+	"Amy": 0.964831
+},
+"dataset/test/Amy-168.png": {
+	"Eva": 0.004191,
+	"Bob": 0.019632,
+	"Amy": 0.958000
+},
+"dataset/test/Amy-169.png": {
+	"Eva": 0.002058,
+	"Bob": 0.022293,
+	"Amy": 0.976626
+},
+"dataset/test/Amy-170.png": {
+	"Eva": 0.002270,
+	"Bob": 0.044540,
+	"Amy": 0.966354
+},
+"dataset/test/Amy-171.png": {
+	"Eva": 0.001249,
+	"Bob": 0.421776,
+	"Amy": 0.770547
+},
+"dataset/test/Amy-172.png": {
+	"Eva": 0.002982,
+	"Bob": 0.027710,
+	"Amy": 0.978558
+},
+"dataset/test/Amy-173.png": {
+	"Eva": 0.005083,
+	"Bob": 0.018406,
+	"Amy": 0.955015
+},
+"dataset/test/Amy-174.png": {
+	"Eva": 0.006032,
+	"Bob": 0.020603,
+	"Amy": 0.965234
+},
+"dataset/test/Amy-175.png": {
+	"Eva": 0.004540,
+	"Bob": 0.053311,
+	"Amy": 0.948287
+},
+"dataset/test/Amy-176.png": {
+	"Eva": 0.002129,
+	"Bob": 0.141628,
+	"Amy": 0.884219
+},
+"dataset/test/Amy-177.png": {
+	"Eva": 0.003759,
+	"Bob": 0.006430,
+	"Amy": 0.991673
+},
+"dataset/test/Amy-178.png": {
+	"Eva": 0.004800,
+	"Bob": 0.004546,
+	"Amy": 0.994490
+},
+"dataset/test/Amy-179.png": {
+	"Eva": 0.003640,
+	"Bob": 0.008080,
+	"Amy": 0.990415
+},
+"dataset/test/Amy-180.png": {
+	"Eva": 0.000779,
+	"Bob": 0.260043,
+	"Amy": 0.909601
+},
+"dataset/test/Amy-181.png": {
+	"Eva": 0.000873,
+	"Bob": 0.167198,
+	"Amy": 0.906393
+},
+"dataset/test/Amy-182.png": {
+	"Eva": 0.001748,
+	"Bob": 0.011995,
+	"Amy": 0.993653
+},
+"dataset/test/Amy-183.png": {
+	"Eva": 0.000873,
+	"Bob": 0.162225,
+	"Amy": 0.949964
+},
+"dataset/test/Amy-184.png": {
+	"Eva": 0.004359,
+	"Bob": 0.002828,
+	"Amy": 0.994045
+},
+"dataset/test/Amy-185.png": {
+	"Eva": 0.000867,
+	"Bob": 0.192843,
+	"Amy": 0.914427
+},
+"dataset/test/Amy-186.png": {
+	"Eva": 0.003024,
+	"Bob": 0.084831,
+	"Amy": 0.900713
+},
+"dataset/test/Amy-187.png": {
+	"Eva": 0.003478,
+	"Bob": 0.012720,
+	"Amy": 0.987884
+},
+"dataset/test/Amy-188.png": {
+	"Eva": 0.001862,
+	"Bob": 0.012854,
+	"Amy": 0.987579
+},
+"dataset/test/Amy-189.png": {
+	"Eva": 0.005556,
+	"Bob": 0.030020,
+	"Amy": 0.907923
+},
+"dataset/test/Amy-190.png": {
+	"Eva": 0.004360,
+	"Bob": 0.085396,
+	"Amy": 0.931720
+},
+"dataset/test/Amy-191.png": {
+	"Eva": 0.002174,
+	"Bob": 0.081387,
+	"Amy": 0.925969
+},
+"dataset/test/Amy-192.png": {
+	"Eva": 0.002107,
+	"Bob": 0.072729,
+	"Amy": 0.950509
+},
+"dataset/test/Amy-193.png": {
+	"Eva": 0.145974,
+	"Bob": 0.000860,
+	"Amy": 0.944676
+},
+"dataset/test/Amy-194.png": {
+	"Eva": 0.001599,
+	"Bob": 0.051109,
+	"Amy": 0.949192
+},
+"dataset/test/Amy-195.png": {
+	"Eva": 0.002090,
+	"Bob": 0.278788,
+	"Amy": 0.810771
+},
+"dataset/test/Amy-196.png": {
+	"Eva": 0.004588,
+	"Bob": 0.004752,
+	"Amy": 0.992545
+},
+"dataset/test/Amy-197.png": {
+	"Eva": 0.001614,
+	"Bob": 0.069644,
+	"Amy": 0.972757
+},
+"dataset/test/Amy-198.png": {
+	"Eva": 0.006629,
+	"Bob": 0.006528,
+	"Amy": 0.968298
+},
+"dataset/test/Amy-199.png": {
+	"Eva": 0.004036,
+	"Bob": 0.021457,
+	"Amy": 0.972839
+},
+"dataset/test/Amy-200.png": {
+	"Eva": 0.002574,
+	"Bob": 0.007625,
+	"Amy": 0.993051
+},
+"dataset/test/Amy-201.png": {
+	"Eva": 0.001786,
+	"Bob": 0.144499,
+	"Amy": 0.800453
+},
+"dataset/test/Amy-202.png": {
+	"Eva": 0.004110,
+	"Bob": 0.008957,
+	"Amy": 0.983417
+},
+"dataset/test/Amy-203.png": {
+	"Eva": 0.002068,
+	"Bob": 0.299672,
+	"Amy": 0.822894
+},
+"dataset/test/Amy-204.png": {
+	"Eva": 0.002235,
+	"Bob": 0.066208,
+	"Amy": 0.924299
+},
+"dataset/test/Amy-205.png": {
+	"Eva": 0.013633,
+	"Bob": 0.002311,
+	"Amy": 0.982654
+},
+"dataset/test/Amy-206.png": {
+	"Eva": 0.021564,
+	"Bob": 0.010855,
+	"Amy": 0.912675
+},
+"dataset/test/Amy-207.png": {
+	"Eva": 0.031788,
+	"Bob": 0.042982,
+	"Amy": 0.873144
+},
+"dataset/test/Amy-208.png": {
+	"Eva": 0.006054,
+	"Bob": 0.004892,
+	"Amy": 0.957877
+},
+"dataset/test/Amy-209.png": {
+	"Eva": 0.002807,
+	"Bob": 0.010793,
+	"Amy": 0.989222
+},
+"dataset/test/Amy-210.png": {
+	"Eva": 0.001210,
+	"Bob": 0.260400,
+	"Amy": 0.919073
+},
+"dataset/test/Amy-211.png": {
+	"Eva": 0.003915,
+	"Bob": 0.004921,
+	"Amy": 0.993093
+},
+"dataset/test/Amy-212.png": {
+	"Eva": 0.006039,
+	"Bob": 0.007584,
+	"Amy": 0.982753
+},
+"dataset/test/Amy-213.png": {
+	"Eva": 0.016928,
+	"Bob": 0.001681,
+	"Amy": 0.992122
+},
+"dataset/test/Amy-214.png": {
+	"Eva": 0.007302,
+	"Bob": 0.001856,
+	"Amy": 0.996304
+},
+"dataset/test/Amy-215.png": {
+	"Eva": 0.004040,
+	"Bob": 0.002570,
+	"Amy": 0.994644
+},
+"dataset/test/Amy-216.png": {
+	"Eva": 0.003046,
+	"Bob": 0.010604,
+	"Amy": 0.984879
+},
+"dataset/test/Amy-217.png": {
+	"Eva": 0.035863,
+	"Bob": 0.001446,
+	"Amy": 0.968226
+},
+"dataset/test/Amy-218.png": {
+	"Eva": 0.007138,
+	"Bob": 0.002633,
+	"Amy": 0.993453
+},
+"dataset/test/Amy-219.png": {
+	"Eva": 0.005012,
+	"Bob": 0.005994,
+	"Amy": 0.990417
+},
+"dataset/test/Amy-220.png": {
+	"Eva": 0.003742,
+	"Bob": 0.002360,
+	"Amy": 0.997095
+},
+"dataset/test/Amy-221.png": {
+	"Eva": 0.002919,
+	"Bob": 0.018657,
+	"Amy": 0.980885
+},
+"dataset/test/Amy-222.png": {
+	"Eva": 0.001988,
+	"Bob": 0.177181,
+	"Amy": 0.892120
+},
+"dataset/test/Amy-223.png": {
+	"Eva": 0.004420,
+	"Bob": 0.006017,
+	"Amy": 0.976192
+},
+"dataset/test/Amy-224.png": {
+	"Eva": 0.007865,
+	"Bob": 0.001638,
+	"Amy": 0.994741
+},
+"dataset/test/Amy-225.png": {
+	"Eva": 0.004708,
+	"Bob": 0.014197,
+	"Amy": 0.965964
+},
+"dataset/test/Amy-226.png": {
+	"Eva": 0.007030,
+	"Bob": 0.008941,
+	"Amy": 0.983497
+},
+"dataset/test/Amy-227.png": {
+	"Eva": 0.000888,
+	"Bob": 0.107121,
+	"Amy": 0.971097
+},
+"dataset/test/Amy-228.png": {
+	"Eva": 0.001141,
+	"Bob": 0.023040,
+	"Amy": 0.984384
+},
+"dataset/test/Amy-229.png": {
+	"Eva": 0.011247,
+	"Bob": 0.549278,
+	"Amy": 0.242464
+},
+"dataset/test/Amy-230.png": {
+	"Eva": 0.001737,
+	"Bob": 0.045307,
+	"Amy": 0.983802
+},
+"dataset/test/Amy-231.png": {
+	"Eva": 0.000742,
+	"Bob": 0.125208,
+	"Amy": 0.935999
+},
+"dataset/test/Amy-232.png": {
+	"Eva": 0.003098,
+	"Bob": 0.009777,
+	"Amy": 0.985286
+},
+"dataset/test/Amy-233.png": {
+	"Eva": 0.001177,
+	"Bob": 0.042086,
+	"Amy": 0.972262
+},
+"dataset/test/Amy-234.png": {
+	"Eva": 0.001270,
+	"Bob": 0.379043,
+	"Amy": 0.818479
+},
+"dataset/test/Amy-235.png": {
+	"Eva": 0.078168,
+	"Bob": 0.003486,
+	"Amy": 0.898619
+},
+"dataset/test/Amy-236.png": {
+	"Eva": 0.004673,
+	"Bob": 0.001373,
+	"Amy": 0.998018
+},
+"dataset/test/Amy-237.png": {
+	"Eva": 0.001840,
+	"Bob": 0.048452,
+	"Amy": 0.962300
+},
+"dataset/test/Amy-238.png": {
+	"Eva": 0.007053,
+	"Bob": 0.003266,
+	"Amy": 0.987845
+},
+"dataset/test/Amy-239.png": {
+	"Eva": 0.004073,
+	"Bob": 0.003568,
+	"Amy": 0.996745
+},
+"dataset/test/Amy-240.png": {
+	"Eva": 0.001327,
+	"Bob": 0.053137,
+	"Amy": 0.959330
+},
+"dataset/test/Amy-241.png": {
+	"Eva": 0.001362,
+	"Bob": 0.010575,
+	"Amy": 0.993882
+},
+"dataset/test/Amy-242.png": {
+	"Eva": 0.001016,
+	"Bob": 0.545514,
+	"Amy": 0.733306
+},
+"dataset/test/Amy-243.png": {
+	"Eva": 0.002789,
+	"Bob": 0.011568,
+	"Amy": 0.984671
+},
+"dataset/test/Amy-244.png": {
+	"Eva": 0.249867,
+	"Bob": 0.000676,
+	"Amy": 0.890797
+},
+"dataset/test/Amy-245.png": {
+	"Eva": 0.008877,
+	"Bob": 0.001840,
+	"Amy": 0.996303
+},
+"dataset/test/Amy-246.png": {
+	"Eva": 0.001988,
+	"Bob": 0.016137,
+	"Amy": 0.987512
+},
+"dataset/test/Amy-247.png": {
+	"Eva": 0.003779,
+	"Bob": 0.009039,
+	"Amy": 0.993308
+},
+"dataset/test/Amy-248.png": {
+	"Eva": 0.018907,
+	"Bob": 0.001717,
+	"Amy": 0.982900
+},
+"dataset/test/Amy-249.png": {
+	"Eva": 0.002935,
+	"Bob": 0.012501,
+	"Amy": 0.980709
+},
+"dataset/test/Amy-250.png": {
+	"Eva": 0.004253,
+	"Bob": 0.007555,
+	"Amy": 0.983074
+},
+"dataset/test/Bob-001.png": {
+	"Eva": 0.005811,
+	"Bob": 0.989985,
+	"Amy": 0.005178
+},
+"dataset/test/Bob-002.png": {
+	"Eva": 0.106589,
+	"Bob": 0.985698,
+	"Amy": 0.000296
+},
+"dataset/test/Bob-003.png": {
+	"Eva": 0.021040,
+	"Bob": 0.950183,
+	"Amy": 0.009302
+},
+"dataset/test/Bob-004.png": {
+	"Eva": 0.012737,
+	"Bob": 0.918798,
+	"Amy": 0.020162
+},
+"dataset/test/Bob-005.png": {
+	"Eva": 0.626472,
+	"Bob": 0.658992,
+	"Amy": 0.001243
+},
+"dataset/test/Bob-006.png": {
+	"Eva": 0.015544,
+	"Bob": 0.974417,
+	"Amy": 0.003607
+},
+"dataset/test/Bob-007.png": {
+	"Eva": 0.060033,
+	"Bob": 0.941925,
+	"Amy": 0.004488
+},
+"dataset/test/Bob-008.png": {
+	"Eva": 0.010633,
+	"Bob": 0.989491,
+	"Amy": 0.002149
+},
+"dataset/test/Bob-009.png": {
+	"Eva": 0.036030,
+	"Bob": 0.995524,
+	"Amy": 0.000530
+},
+"dataset/test/Bob-010.png": {
+	"Eva": 0.039496,
+	"Bob": 0.949881,
+	"Amy": 0.005150
+},
+"dataset/test/Bob-011.png": {
+	"Eva": 0.112810,
+	"Bob": 0.477833,
+	"Amy": 0.032328
+},
+"dataset/test/Bob-012.png": {
+	"Eva": 0.007307,
+	"Bob": 0.992514,
+	"Amy": 0.004478
+},
+"dataset/test/Bob-013.png": {
+	"Eva": 0.672263,
+	"Bob": 0.004195,
+	"Amy": 0.416130
+},
+"dataset/test/Bob-014.png": {
+	"Eva": 0.790671,
+	"Bob": 0.408670,
+	"Amy": 0.001077
+},
+"dataset/test/Bob-015.png": {
+	"Eva": 0.043242,
+	"Bob": 0.833580,
+	"Amy": 0.026732
+},
+"dataset/test/Bob-016.png": {
+	"Eva": 0.009642,
+	"Bob": 0.865429,
+	"Amy": 0.045502
+},
+"dataset/test/Bob-017.png": {
+	"Eva": 0.012019,
+	"Bob": 0.998289,
+	"Amy": 0.000704
+},
+"dataset/test/Bob-018.png": {
+	"Eva": 0.007344,
+	"Bob": 0.763418,
+	"Amy": 0.121021
+},
+"dataset/test/Bob-019.png": {
+	"Eva": 0.135798,
+	"Bob": 0.926016,
+	"Amy": 0.004139
+},
+"dataset/test/Bob-020.png": {
+	"Eva": 0.050688,
+	"Bob": 0.962652,
+	"Amy": 0.002129
+},
+"dataset/test/Bob-021.png": {
+	"Eva": 0.005467,
+	"Bob": 0.992029,
+	"Amy": 0.005548
+},
+"dataset/test/Bob-022.png": {
+	"Eva": 0.002751,
+	"Bob": 0.974628,
+	"Amy": 0.028901
+},
+"dataset/test/Bob-023.png": {
+	"Eva": 0.005502,
+	"Bob": 0.983246,
+	"Amy": 0.011405
+},
+"dataset/test/Bob-024.png": {
+	"Eva": 0.074123,
+	"Bob": 0.884339,
+	"Amy": 0.005319
+},
+"dataset/test/Bob-025.png": {
+	"Eva": 0.021218,
+	"Bob": 0.953595,
+	"Amy": 0.007989
+},
+"dataset/test/Bob-026.png": {
+	"Eva": 0.073516,
+	"Bob": 0.861206,
+	"Amy": 0.022837
+},
+"dataset/test/Bob-027.png": {
+	"Eva": 0.142898,
+	"Bob": 0.986614,
+	"Amy": 0.000691
+},
+"dataset/test/Bob-028.png": {
+	"Eva": 0.006166,
+	"Bob": 0.972661,
+	"Amy": 0.014496
+},
+"dataset/test/Bob-029.png": {
+	"Eva": 0.082284,
+	"Bob": 0.602048,
+	"Amy": 0.032334
+},
+"dataset/test/Bob-030.png": {
+	"Eva": 0.003202,
+	"Bob": 0.998189,
+	"Amy": 0.002204
+},
+"dataset/test/Bob-031.png": {
+	"Eva": 0.028788,
+	"Bob": 0.932943,
+	"Amy": 0.020430
+},
+"dataset/test/Bob-032.png": {
+	"Eva": 0.026440,
+	"Bob": 0.929982,
+	"Amy": 0.023387
+},
+"dataset/test/Bob-033.png": {
+	"Eva": 0.100147,
+	"Bob": 0.958108,
+	"Amy": 0.001754
+},
+"dataset/test/Bob-034.png": {
+	"Eva": 0.009787,
+	"Bob": 0.997779,
+	"Amy": 0.001494
+},
+"dataset/test/Bob-035.png": {
+	"Eva": 0.004261,
+	"Bob": 0.991787,
+	"Amy": 0.006576
+},
+"dataset/test/Bob-036.png": {
+	"Eva": 0.012595,
+	"Bob": 0.962052,
+	"Amy": 0.012315
+},
+"dataset/test/Bob-037.png": {
+	"Eva": 0.006406,
+	"Bob": 0.995488,
+	"Amy": 0.002881
+},
+"dataset/test/Bob-038.png": {
+	"Eva": 0.001154,
+	"Bob": 0.986856,
+	"Amy": 0.021703
+},
+"dataset/test/Bob-039.png": {
+	"Eva": 0.204958,
+	"Bob": 0.800079,
+	"Amy": 0.003848
+},
+"dataset/test/Bob-040.png": {
+	"Eva": 0.010067,
+	"Bob": 0.999049,
+	"Amy": 0.000459
+},
+"dataset/test/Bob-041.png": {
+	"Eva": 0.144750,
+	"Bob": 0.998861,
+	"Amy": 0.000052
+},
+"dataset/test/Bob-042.png": {
+	"Eva": 0.002634,
+	"Bob": 0.990508,
+	"Amy": 0.010178
+},
+"dataset/test/Bob-043.png": {
+	"Eva": 0.011884,
+	"Bob": 0.990733,
+	"Amy": 0.003480
+},
+"dataset/test/Bob-044.png": {
+	"Eva": 0.002162,
+	"Bob": 0.996517,
+	"Amy": 0.005768
+},
+"dataset/test/Bob-045.png": {
+	"Eva": 0.653696,
+	"Bob": 0.386974,
+	"Amy": 0.004807
+},
+"dataset/test/Bob-046.png": {
+	"Eva": 0.008308,
+	"Bob": 0.992703,
+	"Amy": 0.003618
+},
+"dataset/test/Bob-047.png": {
+	"Eva": 0.001191,
+	"Bob": 0.994312,
+	"Amy": 0.011645
+},
+"dataset/test/Bob-048.png": {
+	"Eva": 0.046810,
+	"Bob": 0.996210,
+	"Amy": 0.000345
+},
+"dataset/test/Bob-049.png": {
+	"Eva": 0.002033,
+	"Bob": 0.995866,
+	"Amy": 0.004822
+},
+"dataset/test/Bob-050.png": {
+	"Eva": 0.005692,
+	"Bob": 0.993183,
+	"Amy": 0.005042
+},
+"dataset/test/Bob-051.png": {
+	"Eva": 0.001911,
+	"Bob": 0.949666,
+	"Amy": 0.058352
+},
+"dataset/test/Bob-052.png": {
+	"Eva": 0.032519,
+	"Bob": 0.957648,
+	"Amy": 0.006203
+},
+"dataset/test/Bob-053.png": {
+	"Eva": 0.201071,
+	"Bob": 0.940761,
+	"Amy": 0.001262
+},
+"dataset/test/Bob-054.png": {
+	"Eva": 0.015002,
+	"Bob": 0.948646,
+	"Amy": 0.023222
+},
+"dataset/test/Bob-055.png": {
+	"Eva": 0.224160,
+	"Bob": 0.967049,
+	"Amy": 0.000732
+},
+"dataset/test/Bob-056.png": {
+	"Eva": 0.004118,
+	"Bob": 0.997423,
+	"Amy": 0.002617
+},
+"dataset/test/Bob-057.png": {
+	"Eva": 0.002818,
+	"Bob": 0.991380,
+	"Amy": 0.009281
+},
+"dataset/test/Bob-058.png": {
+	"Eva": 0.004142,
+	"Bob": 0.998855,
+	"Amy": 0.001817
+},
+"dataset/test/Bob-059.png": {
+	"Eva": 0.007759,
+	"Bob": 0.973190,
+	"Amy": 0.012417
+},
+"dataset/test/Bob-060.png": {
+	"Eva": 0.039472,
+	"Bob": 0.918356,
+	"Amy": 0.005589
+},
+"dataset/test/Bob-061.png": {
+	"Eva": 0.097509,
+	"Bob": 0.995596,
+	"Amy": 0.000235
+},
+"dataset/test/Bob-062.png": {
+	"Eva": 0.002286,
+	"Bob": 0.986839,
+	"Amy": 0.024135
+},
+"dataset/test/Bob-063.png": {
+	"Eva": 0.001126,
+	"Bob": 0.993019,
+	"Amy": 0.014309
+},
+"dataset/test/Bob-064.png": {
+	"Eva": 0.003139,
+	"Bob": 0.997880,
+	"Amy": 0.003158
+},
+"dataset/test/Bob-065.png": {
+	"Eva": 0.001441,
+	"Bob": 0.996656,
+	"Amy": 0.007557
+},
+"dataset/test/Bob-066.png": {
+	"Eva": 0.011623,
+	"Bob": 0.987761,
+	"Amy": 0.008255
+},
+"dataset/test/Bob-067.png": {
+	"Eva": 0.001248,
+	"Bob": 0.961368,
+	"Amy": 0.048055
+},
+"dataset/test/Bob-068.png": {
+	"Eva": 0.009595,
+	"Bob": 0.950110,
+	"Amy": 0.027170
+},
+"dataset/test/Bob-069.png": {
+	"Eva": 0.020790,
+	"Bob": 0.997533,
+	"Amy": 0.000652
+},
+"dataset/test/Bob-070.png": {
+	"Eva": 0.006379,
+	"Bob": 0.994656,
+	"Amy": 0.002013
+},
+"dataset/test/Bob-071.png": {
+	"Eva": 0.009718,
+	"Bob": 0.996391,
+	"Amy": 0.001300
+},
+"dataset/test/Bob-072.png": {
+	"Eva": 0.000562,
+	"Bob": 0.986907,
+	"Amy": 0.044292
+},
+"dataset/test/Bob-073.png": {
+	"Eva": 0.021289,
+	"Bob": 0.871134,
+	"Amy": 0.032729
+},
+"dataset/test/Bob-074.png": {
+	"Eva": 0.001581,
+	"Bob": 0.952915,
+	"Amy": 0.057264
+},
+"dataset/test/Bob-075.png": {
+	"Eva": 0.008030,
+	"Bob": 0.993913,
+	"Amy": 0.001715
+},
+"dataset/test/Bob-076.png": {
+	"Eva": 0.015484,
+	"Bob": 0.994893,
+	"Amy": 0.001454
+},
+"dataset/test/Bob-077.png": {
+	"Eva": 0.006114,
+	"Bob": 0.997540,
+	"Amy": 0.001920
+},
+"dataset/test/Bob-078.png": {
+	"Eva": 0.002279,
+	"Bob": 0.995512,
+	"Amy": 0.007306
+},
+"dataset/test/Bob-079.png": {
+	"Eva": 0.002670,
+	"Bob": 0.993920,
+	"Amy": 0.007413
+},
+"dataset/test/Bob-080.png": {
+	"Eva": 0.011325,
+	"Bob": 0.966880,
+	"Amy": 0.011219
+},
+"dataset/test/Bob-081.png": {
+	"Eva": 0.000953,
+	"Bob": 0.997253,
+	"Amy": 0.008700
+},
+"dataset/test/Bob-082.png": {
+	"Eva": 0.009113,
+	"Bob": 0.998419,
+	"Amy": 0.000616
+},
+"dataset/test/Bob-083.png": {
+	"Eva": 0.006168,
+	"Bob": 0.991787,
+	"Amy": 0.006209
+},
+"dataset/test/Bob-084.png": {
+	"Eva": 0.002357,
+	"Bob": 0.995099,
+	"Amy": 0.006071
+},
+"dataset/test/Bob-085.png": {
+	"Eva": 0.024452,
+	"Bob": 0.948130,
+	"Amy": 0.014740
+},
+"dataset/test/Bob-086.png": {
+	"Eva": 0.002387,
+	"Bob": 0.997795,
+	"Amy": 0.003288
+},
+"dataset/test/Bob-087.png": {
+	"Eva": 0.001355,
+	"Bob": 0.996800,
+	"Amy": 0.006171
+},
+"dataset/test/Bob-088.png": {
+	"Eva": 0.015025,
+	"Bob": 0.970756,
+	"Amy": 0.009500
+},
+"dataset/test/Bob-089.png": {
+	"Eva": 0.016233,
+	"Bob": 0.975120,
+	"Amy": 0.006240
+},
+"dataset/test/Bob-090.png": {
+	"Eva": 0.001981,
+	"Bob": 0.998549,
+	"Amy": 0.002446
+},
+"dataset/test/Bob-091.png": {
+	"Eva": 0.035741,
+	"Bob": 0.995758,
+	"Amy": 0.000651
+},
+"dataset/test/Bob-092.png": {
+	"Eva": 0.004579,
+	"Bob": 0.992611,
+	"Amy": 0.003864
+},
+"dataset/test/Bob-093.png": {
+	"Eva": 0.265877,
+	"Bob": 0.994074,
+	"Amy": 0.000103
+},
+"dataset/test/Bob-094.png": {
+	"Eva": 0.002143,
+	"Bob": 0.995954,
+	"Amy": 0.007019
+},
+"dataset/test/Bob-095.png": {
+	"Eva": 0.008710,
+	"Bob": 0.950995,
+	"Amy": 0.016848
+},
+"dataset/test/Bob-096.png": {
+	"Eva": 0.006647,
+	"Bob": 0.999003,
+	"Amy": 0.000946
+},
+"dataset/test/Bob-097.png": {
+	"Eva": 0.053735,
+	"Bob": 0.998924,
+	"Amy": 0.000109
+},
+"dataset/test/Bob-098.png": {
+	"Eva": 0.002587,
+	"Bob": 0.983715,
+	"Amy": 0.015099
+},
+"dataset/test/Bob-099.png": {
+	"Eva": 0.008815,
+	"Bob": 0.997527,
+	"Amy": 0.001514
+},
+"dataset/test/Eva-001.png": {
+	"Eva": 0.895511,
+	"Bob": 0.005543,
+	"Amy": 0.092626
+},
+"dataset/test/Eva-002.png": {
+	"Eva": 0.995312,
+	"Bob": 0.002453,
+	"Amy": 0.005435
+},
+"dataset/test/Eva-003.png": {
+	"Eva": 0.990844,
+	"Bob": 0.002459,
+	"Amy": 0.009594
+},
+"dataset/test/Eva-004.png": {
+	"Eva": 0.993807,
+	"Bob": 0.001729,
+	"Amy": 0.011674
+},
+"dataset/test/Eva-005.png": {
+	"Eva": 0.985008,
+	"Bob": 0.007682,
+	"Amy": 0.003497
+},
+"dataset/test/Eva-006.png": {
+	"Eva": 0.993845,
+	"Bob": 0.006853,
+	"Amy": 0.003139
+},
+"dataset/test/Eva-007.png": {
+	"Eva": 0.995636,
+	"Bob": 0.002339,
+	"Amy": 0.004583
+},
+"dataset/test/Eva-008.png": {
+	"Eva": 0.989432,
+	"Bob": 0.002566,
+	"Amy": 0.009718
+},
+"dataset/test/Eva-009.png": {
+	"Eva": 0.989324,
+	"Bob": 0.004072,
+	"Amy": 0.005713
+},
+"dataset/test/Eva-010.png": {
+	"Eva": 0.989713,
+	"Bob": 0.006226,
+	"Amy": 0.003395
+},
+"dataset/test/Eva-011.png": {
+	"Eva": 0.987661,
+	"Bob": 0.030955,
+	"Amy": 0.000875
+},
+"dataset/test/Eva-012.png": {
+	"Eva": 0.972078,
+	"Bob": 0.030555,
+	"Amy": 0.001995
+},
+"dataset/test/Eva-013.png": {
+	"Eva": 0.983844,
+	"Bob": 0.009985,
+	"Amy": 0.002063
+},
+"dataset/test/Eva-014.png": {
+	"Eva": 0.689463,
+	"Bob": 0.014650,
+	"Amy": 0.065754
+},
+"dataset/test/Eva-015.png": {
+	"Eva": 0.993059,
+	"Bob": 0.002380,
+	"Amy": 0.011059
+},
+"dataset/test/Eva-016.png": {
+	"Eva": 0.985930,
+	"Bob": 0.025007,
+	"Amy": 0.001596
+},
+"dataset/test/Eva-017.png": {
+	"Eva": 0.981928,
+	"Bob": 0.006178,
+	"Amy": 0.005522
+},
+"dataset/test/Eva-018.png": {
+	"Eva": 0.857546,
+	"Bob": 0.174466,
+	"Amy": 0.002842
+},
+"dataset/test/Eva-019.png": {
+	"Eva": 0.991044,
+	"Bob": 0.003242,
+	"Amy": 0.007215
+},
+"dataset/test/Eva-020.png": {
+	"Eva": 0.993870,
+	"Bob": 0.006237,
+	"Amy": 0.003044
+},
+"dataset/test/Eva-021.png": {
+	"Eva": 0.987300,
+	"Bob": 0.002879,
+	"Amy": 0.010481
+},
+"dataset/test/Eva-022.png": {
+	"Eva": 0.833749,
+	"Bob": 0.044174,
+	"Amy": 0.011563
+},
+"dataset/test/Eva-023.png": {
+	"Eva": 0.994832,
+	"Bob": 0.005007,
+	"Amy": 0.003372
+},
+"dataset/test/Eva-024.png": {
+	"Eva": 0.982426,
+	"Bob": 0.010691,
+	"Amy": 0.005902
+},
+"dataset/test/Eva-025.png": {
+	"Eva": 0.923118,
+	"Bob": 0.015760,
+	"Amy": 0.019806
+},
+"dataset/test/Eva-026.png": {
+	"Eva": 0.993743,
+	"Bob": 0.001174,
+	"Amy": 0.016053
+},
+"dataset/test/Eva-027.png": {
+	"Eva": 0.953121,
+	"Bob": 0.038168,
+	"Amy": 0.003234
+},
+"dataset/test/Eva-028.png": {
+	"Eva": 0.995383,
+	"Bob": 0.006556,
+	"Amy": 0.001690
+},
+"dataset/test/Eva-029.png": {
+	"Eva": 0.990719,
+	"Bob": 0.003470,
+	"Amy": 0.006061
+},
+"dataset/test/Eva-030.png": {
+	"Eva": 0.991048,
+	"Bob": 0.003602,
+	"Amy": 0.005491
+},
+"dataset/test/Eva-031.png": {
+	"Eva": 0.993569,
+	"Bob": 0.005616,
+	"Amy": 0.002622
+},
+"dataset/test/Eva-032.png": {
+	"Eva": 0.988495,
+	"Bob": 0.001916,
+	"Amy": 0.017583
+},
+"dataset/test/Eva-033.png": {
+	"Eva": 0.945356,
+	"Bob": 0.020533,
+	"Amy": 0.004395
+},
+"dataset/test/Eva-034.png": {
+	"Eva": 0.993278,
+	"Bob": 0.001867,
+	"Amy": 0.020816
+},
+"dataset/test/Eva-035.png": {
+	"Eva": 0.986668,
+	"Bob": 0.002954,
+	"Amy": 0.009928
+},
+"dataset/test/Eva-036.png": {
+	"Eva": 0.995504,
+	"Bob": 0.002502,
+	"Amy": 0.009817
+},
+"dataset/test/Eva-037.png": {
+	"Eva": 0.958067,
+	"Bob": 0.021791,
+	"Amy": 0.005506
+},
+"dataset/test/Eva-038.png": {
+	"Eva": 0.218466,
+	"Bob": 0.030976,
+	"Amy": 0.285623
+},
+"dataset/test/Eva-039.png": {
+	"Eva": 0.993658,
+	"Bob": 0.003319,
+	"Amy": 0.005958
+},
+"dataset/test/Eva-040.png": {
+	"Eva": 0.988232,
+	"Bob": 0.000977,
+	"Amy": 0.087307
+},
+"dataset/test/Eva-041.png": {
+	"Eva": 0.993839,
+	"Bob": 0.002260,
+	"Amy": 0.008866
+},
+"dataset/test/Eva-042.png": {
+	"Eva": 0.853491,
+	"Bob": 0.255079,
+	"Amy": 0.001317
+},
+"dataset/test/Eva-043.png": {
+	"Eva": 0.995724,
+	"Bob": 0.004230,
+	"Amy": 0.003151
+},
+"dataset/test/Eva-044.png": {
+	"Eva": 0.981535,
+	"Bob": 0.012582,
+	"Amy": 0.002416
+},
+"dataset/test/Eva-045.png": {
+	"Eva": 0.969235,
+	"Bob": 0.014584,
+	"Amy": 0.003769
+},
+"dataset/test/Eva-046.png": {
+	"Eva": 0.882103,
+	"Bob": 0.081978,
+	"Amy": 0.009046
+},
+"dataset/test/Eva-047.png": {
+	"Eva": 0.989090,
+	"Bob": 0.015281,
+	"Amy": 0.001484
+},
+"dataset/test/Eva-048.png": {
+	"Eva": 0.994390,
+	"Bob": 0.002398,
+	"Amy": 0.010457
+},
+"dataset/test/Eva-049.png": {
+	"Eva": 0.994261,
+	"Bob": 0.002443,
+	"Amy": 0.008101
+},
+"dataset/test/Eva-050.png": {
+	"Eva": 0.996706,
+	"Bob": 0.001617,
+	"Amy": 0.005340
+},
+"dataset/test/Eva-051.png": {
+	"Eva": 0.950580,
+	"Bob": 0.014081,
+	"Amy": 0.008931
+},
+"dataset/test/Eva-052.png": {
+	"Eva": 0.989152,
+	"Bob": 0.015820,
+	"Amy": 0.001133
+},
+"dataset/test/Eva-053.png": {
+	"Eva": 0.995225,
+	"Bob": 0.002316,
+	"Amy": 0.008083
+},
+"dataset/test/Eva-054.png": {
+	"Eva": 0.988181,
+	"Bob": 0.001781,
+	"Amy": 0.057385
+},
+"dataset/test/Eva-055.png": {
+	"Eva": 0.991844,
+	"Bob": 0.002073,
+	"Amy": 0.009793
+},
+"dataset/test/Eva-056.png": {
+	"Eva": 0.961508,
+	"Bob": 0.008864,
+	"Amy": 0.032134
+},
+"dataset/test/Eva-057.png": {
+	"Eva": 0.996658,
+	"Bob": 0.002460,
+	"Amy": 0.004326
+},
+"dataset/test/Eva-058.png": {
+	"Eva": 0.991312,
+	"Bob": 0.000806,
+	"Amy": 0.049355
+},
+"dataset/test/Eva-059.png": {
+	"Eva": 0.927155,
+	"Bob": 0.028868,
+	"Amy": 0.006785
+},
+"dataset/test/Eva-060.png": {
+	"Eva": 0.993914,
+	"Bob": 0.007888,
+	"Amy": 0.002329
+},
+"dataset/test/Eva-061.png": {
+	"Eva": 0.776995,
+	"Bob": 0.110441,
+	"Amy": 0.006961
+},
+"dataset/test/Eva-062.png": {
+	"Eva": 0.915868,
+	"Bob": 0.006308,
+	"Amy": 0.067621
+},
+"dataset/test/Eva-063.png": {
+	"Eva": 0.649859,
+	"Bob": 0.603865,
+	"Amy": 0.000808
+},
+"dataset/test/Eva-064.png": {
+	"Eva": 0.986325,
+	"Bob": 0.002518,
+	"Amy": 0.014036
+},
+"dataset/test/Eva-065.png": {
+	"Eva": 0.991958,
+	"Bob": 0.001951,
+	"Amy": 0.009572
+},
+"dataset/test/Eva-066.png": {
+	"Eva": 0.994001,
+	"Bob": 0.013993,
+	"Amy": 0.000924
+},
+"dataset/test/Eva-067.png": {
+	"Eva": 0.993484,
+	"Bob": 0.002218,
+	"Amy": 0.010398
+},
+"dataset/test/Eva-068.png": {
+	"Eva": 0.994629,
+	"Bob": 0.006670,
+	"Amy": 0.002063
+},
+"dataset/test/Eva-069.png": {
+	"Eva": 0.988409,
+	"Bob": 0.006889,
+	"Amy": 0.002930
+},
+"dataset/test/Eva-070.png": {
+	"Eva": 0.965722,
+	"Bob": 0.027018,
+	"Amy": 0.003527
+},
+"dataset/test/Eva-071.png": {
+	"Eva": 0.986027,
+	"Bob": 0.003328,
+	"Amy": 0.009066
+},
+"dataset/test/Eva-072.png": {
+	"Eva": 0.991974,
+	"Bob": 0.002754,
+	"Amy": 0.009312
+},
+"dataset/test/Eva-073.png": {
+	"Eva": 0.979084,
+	"Bob": 0.025214,
+	"Amy": 0.002668
+},
+"dataset/test/Eva-074.png": {
+	"Eva": 0.963155,
+	"Bob": 0.048625,
+	"Amy": 0.003477
+},
+"dataset/test/Eva-075.png": {
+	"Eva": 0.995522,
+	"Bob": 0.004276,
+	"Amy": 0.002959
+},
+"dataset/test/Eva-076.png": {
+	"Eva": 0.949457,
+	"Bob": 0.040355,
+	"Amy": 0.003356
+},
+"dataset/test/Eva-077.png": {
+	"Eva": 0.994114,
+	"Bob": 0.001549,
+	"Amy": 0.016954
+},
+"dataset/test/Eva-078.png": {
+	"Eva": 0.994452,
+	"Bob": 0.002363,
+	"Amy": 0.007501
+},
+"dataset/test/Eva-079.png": {
+	"Eva": 0.783645,
+	"Bob": 0.026815,
+	"Amy": 0.017181
+},
+"dataset/test/Eva-080.png": {
+	"Eva": 0.806223,
+	"Bob": 0.039042,
+	"Amy": 0.016061
+},
+"dataset/test/Eva-081.png": {
+	"Eva": 0.988332,
+	"Bob": 0.002271,
+	"Amy": 0.012370
+},
+"dataset/test/Eva-082.png": {
+	"Eva": 0.990619,
+	"Bob": 0.001730,
+	"Amy": 0.013340
+},
+"dataset/test/Eva-083.png": {
+	"Eva": 0.994892,
+	"Bob": 0.006273,
+	"Amy": 0.002804
+},
+"dataset/test/Eva-084.png": {
+	"Eva": 0.992631,
+	"Bob": 0.004165,
+	"Amy": 0.004966
+},
+"dataset/test/Eva-085.png": {
+	"Eva": 0.996015,
+	"Bob": 0.003556,
+	"Amy": 0.002570
+},
+"dataset/test/Eva-086.png": {
+	"Eva": 0.993916,
+	"Bob": 0.003237,
+	"Amy": 0.006633
+},
+"dataset/test/Eva-087.png": {
+	"Eva": 0.992327,
+	"Bob": 0.001820,
+	"Amy": 0.011020
+},
+"dataset/test/Eva-088.png": {
+	"Eva": 0.995757,
+	"Bob": 0.004603,
+	"Amy": 0.002596
+},
+"dataset/test/Eva-089.png": {
+	"Eva": 0.995838,
+	"Bob": 0.002851,
+	"Amy": 0.004833
+},
+"dataset/test/Eva-090.png": {
+	"Eva": 0.992701,
+	"Bob": 0.007538,
+	"Amy": 0.003302
+},
+"dataset/test/Eva-091.png": {
+	"Eva": 0.953231,
+	"Bob": 0.074091,
+	"Amy": 0.001903
+},
+"dataset/test/Eva-092.png": {
+	"Eva": 0.991141,
+	"Bob": 0.005890,
+	"Amy": 0.005255
+},
+"dataset/test/Eva-093.png": {
+	"Eva": 0.986856,
+	"Bob": 0.009524,
+	"Amy": 0.005216
+},
+"dataset/test/Eva-094.png": {
+	"Eva": 0.968266,
+	"Bob": 0.037507,
+	"Amy": 0.002097
+},
+"dataset/test/Eva-095.png": {
+	"Eva": 0.994301,
+	"Bob": 0.004796,
+	"Amy": 0.003585
+},
+"dataset/test/Eva-096.png": {
+	"Eva": 0.970998,
+	"Bob": 0.018032,
+	"Amy": 0.002993
+},
+"dataset/test/Eva-097.png": {
+	"Eva": 0.986109,
+	"Bob": 0.006013,
+	"Amy": 0.005079
+},
+"dataset/test/Eva-098.png": {
+	"Eva": 0.994704,
+	"Bob": 0.005136,
+	"Amy": 0.002824
+},
+"dataset/test/Eva-099.png": {
+	"Eva": 0.857328,
+	"Bob": 0.312341,
+	"Amy": 0.001936
+},
+"dataset/test/Eva-100.png": {
+	"Eva": 0.581082,
+	"Bob": 0.131882,
+	"Amy": 0.027747
+}
+}

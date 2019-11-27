@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( Signature )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( runme.exe main.cpp lib/NeuralNet.cpp lib/Image.cpp lib/BackProp.cpp )
+target_link_libraries( runme.exe ${OpenCV_LIBS} )
